@@ -7,5 +7,6 @@ void main()
  {
    scanf("%d",&a[i]);
  }
- return 0;
+ printf("y");
+  return 0;
 }
